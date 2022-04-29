@@ -6,7 +6,7 @@ It use Node Module System, covers command line arguments, using NPM packages.
 ## Getting Started
 You will need: * Node v16.13.2 * Npm v8.1.2
 ### To run the app locally Run the below commands: 
-`npm i` - Install the packages in `package.json`\
+`npm i` - install or update all the dependencies in your `package.json`\
 `npm i chalk@2.4.1` - Install npm library(chalk) - version 2.4.1\
 `npm i yargs@17.3.1` - Install npm library(yargs) - version 17.3.1\
 `node app.js add --title="title" --body="body"` - Add your preferred title and body to the notes.json file\
